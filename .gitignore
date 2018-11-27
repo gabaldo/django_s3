@@ -1,0 +1,5 @@
+.django_s3_venv
+.env
+*.sqlite3
+*pyc
+__pycache__
